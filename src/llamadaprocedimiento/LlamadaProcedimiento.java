@@ -13,6 +13,7 @@ public class LlamadaProcedimiento {
     public static void main(String[] args) {
         // TODO code application logic here
         BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader entrada3333 = new BufferedReader(new InputStreamReader(System.in));
         
         int id = -1;
         Connection conexion = null;
