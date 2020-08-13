@@ -14,8 +14,7 @@ public class LlamadaProcedimiento {
         // TODO code application logic here
         BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));       
         
-        int id = -1;
-        int id1 = 10;
+        int id = -1;        
         
         Connection conexion = null;
 
